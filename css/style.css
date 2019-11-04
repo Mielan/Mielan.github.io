@@ -1,0 +1,25 @@
+﻿body
+{
+}
+.black {
+    background-color:black;
+}
+.moveup {
+    margin-top: 0px;
+    margin-bottom: -51px;
+    color: #c3acac;
+    font-weight: 100;
+    margin-left: 50px;
+    text-size-adjust: 80%;
+}
+
+.lightest {
+    font-weight: 100;
+    color: #eae2e2;
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 30px;
+}
+
+h3{
+    color: white;
+}
